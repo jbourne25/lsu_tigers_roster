@@ -1,0 +1,3 @@
+require_relative '../lib/lsu_tigers_roster'
+
+LsuTigersRoster::CLI.new.call

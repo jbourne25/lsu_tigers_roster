@@ -1,0 +1,1 @@
+class LsuTigersRoster::Scraper 
